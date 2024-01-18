@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoopsExercise2_Final/1.0.0": {
+        "runtime": {
+          "LoopsExercise2_Final.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoopsExercise2_Final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
